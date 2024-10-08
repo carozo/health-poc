@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "lottie-react-native": "^6.7.2",
     "react": "18.3.1",
-    "react-native": "0.75.3"
+    "react-native": "0.75.3",
+    "react-native-health": "^1.18.0",
+    "react-native-health-connect": "^2.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
