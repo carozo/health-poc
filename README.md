@@ -46,6 +46,6 @@ yarn ios
 
 The app reads the blood glucose levels registered on either HealthKit or Health Connect depending on the OS.
 
-![ezgif-5-8f4774c025 (2)](https://github.com/user-attachments/assets/4a091cf3-1b1f-44af-b66a-84c218b40613)
+![App](https://github.com/user-attachments/assets/4a091cf3-1b1f-44af-b66a-84c218b40613)
 
 
