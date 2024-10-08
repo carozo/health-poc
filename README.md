@@ -1,4 +1,4 @@
-# healthpoc
+# Health POC
 
 This is an example implementation of an integration of HealthKit and Health Connect with a React Native app.
 The app reads the blood glucose levels registered on either HealthKit or Health Connect depending on the OS.
