@@ -1,4 +1,12 @@
+# healthpoc
+
 This is an example implementation of an integration of HealthKit and Health Connect with a React Native app.
+The app reads the blood glucose levels registered on either HealthKit or Health Connect depending on the OS.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a091cf3-1b1f-44af-b66a-84c218b40613" alt="App" width="300">
+</p>
+
 
 # Getting Started
 
@@ -20,8 +28,6 @@ yarn start
 
 ## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
 ### For Android
 
 ```bash
@@ -41,11 +47,5 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
-
-### Example
-
-The app reads the blood glucose levels registered on either HealthKit or Health Connect depending on the OS.
-
-![App](https://github.com/user-attachments/assets/4a091cf3-1b1f-44af-b66a-84c218b40613)
 
 
